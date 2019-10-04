@@ -10,6 +10,6 @@ creates a simple java-11 project with JUnit5, slf4j and owasp dependency-check p
 
 ## Create new java-11-project
 
-	mvn archetype:generate -DarchetypeGroupId=de.egladil.maven -DarchetypeArtifactId=java11-quickstart-archetype -DarchetypeVersion=1.0-SNAPSHOT -DgroupId=de.egladil.web -DartifactId=archetype-test -DinteractiveMode=false
+	mvn archetype:generate -DarchetypeGroupId=de.egladil.maven -DarchetypeArtifactId=java11-quickstart-archetype -DarchetypeVersion=1.0.0-SNAPSHOT -DgroupId=de.egladil.web -DartifactId=archetype-test -DinteractiveMode=false
 
 

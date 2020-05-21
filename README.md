@@ -6,7 +6,7 @@ creates a simple java-11 project with JUnit5, slf4j and owasp dependency-check p
 
 	git clone https://github.com/heike2718/java11-quickstart-archetype.git
 	cd java11-quickstart-archetype
-	mnv clean install
+	mvn clean install
 
 ## Create new java-11-project
 
